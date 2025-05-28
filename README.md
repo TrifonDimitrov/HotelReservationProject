@@ -1,6 +1,6 @@
-YovoTWW : takes the role of Questioner.
+Member #1: takes the role of Questioner.
 
-Member #2: takes the role of Offerer.
+YovoTWW: takes the role of Offerer.
 
 Member #3: takes the role of Admin.
 
